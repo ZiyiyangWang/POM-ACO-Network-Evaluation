@@ -1,4 +1,4 @@
-# POM ACO Network Evaluation GitHub Repository
+# POM ACO Network Evaluation
 
 This repository hosts the code and analysis for the POM ACO Network Evaluation project. The purpose of this project is to analyze the provider networks of the Physicians Organization of Michigan Accountable Care Organization (POM ACO) to enhance patient care quality and reduce healthcare expenditures. Our analysis covers the composition and performance of POM ACO's provider networks throughout Michigan, with the goal of identifying strategic improvements that align with Medicare's performance metrics.
 
