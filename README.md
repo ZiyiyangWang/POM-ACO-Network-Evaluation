@@ -34,20 +34,9 @@ This repository hosts the code and analysis for the POM ACO Network Evaluation p
    - Navigate to the `data/` directory to understand the datasets used for the analyses.
    - Due to data sensitivity, ensure compliance with data use agreements and permissions.
 
-## Contributing
-
-Contributions to this project are welcome. Please adhere to this project's `Code of Conduct` while contributing. For major changes, please open an issue first to discuss what you would like to change. Make sure to update tests as appropriate.
-
-- **Fork the Repository**: Create a personal fork of the project on GitHub.
-- **Clone the Fork**: Work within your fork and implement the desired changes.
-- **Submit a Pull Request**: Push your changes back up to your fork on GitHub and submit a pull request so that we can review your changes.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Contact
 
-If you have any questions or would like to contact the team, please [file an issue](https://github.com/your-username/pom-aco-evaluation/issues) on GitHub.
+If you have any questions or would like to contact the team, please email ziyiyanw@umich.edu.
 
 This README provides a comprehensive guide for anyone interested in understanding or contributing to the POM ACO Network Evaluation project. For detailed technical steps or analysis questions, refer to the individual Jupyter Notebooks provided in the repository.
