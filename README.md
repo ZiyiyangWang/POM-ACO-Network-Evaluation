@@ -16,7 +16,7 @@ This repository hosts the code and analysis for the POM ACO Network Evaluation p
 
 1. **Clone the Repository**: Start by cloning this repo to your local machine or download it as a ZIP file.
    ```
-   git clone https://github.com/your-username/pom-aco-evaluation.git
+   git clone https://github.com/your-username/POM-ACO-Network-Evaluation.git
    ```
 
 2. **Set Up Your Environment**:
